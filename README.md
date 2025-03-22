@@ -1,6 +1,3 @@
-# podcast-api
-Restful API built with NestJs, typeORM, and Passport to manage podcast episodes and user authentication. It provides endpoints for users to create, update, and manage episodes while ensuring secure access using authentication and authorization mechanisms.
-=======
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
